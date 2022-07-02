@@ -1,0 +1,31 @@
+
+
+#background{
+    background-color: tomato;
+}
+ 
+#title{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.list{
+    font-size: 34px;
+    
+    font-style: oblique;
+    font-weight:bold;
+    color: rgb(96, 2, 2);
+    
+}
+.description{
+    font-size: 34px;
+    
+    font-style: oblique;
+    font-weight:bold;
+    color: rgb(96, 2, 2);
+}
+
+.img{
+    height:"auto";
+    width: 25%;
+}
